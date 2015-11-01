@@ -1,0 +1,30 @@
+{
+  "name": "slyn-page-manager",
+  "version": "0.0.1",
+  "description": "Page manager",
+  "main": "lib/index.js",
+  "keywords": [
+    "slyn-page-manager"
+  ],
+  "homepage": "https://github.com/malikov/slyn-page-manager",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-page-manager"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "q": "~1.4.1",
+    "backbone": "~1.2.3",
+    "slyn-url-matcher-factory": "git://github.com/malikov/slyn-url-matcher-factory.git#master",
+    "slyn-util-helper": "git://github.com/malikov/slyn-util-helper.git#0.0.1",
+    "slyn-data-binder": "git://github.com/malikov/slyn-data-binder.git#0.0.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-page-manager/issues"
+  }
+}
