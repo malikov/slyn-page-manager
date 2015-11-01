@@ -1,6 +1,6 @@
-slyn-util-helper
+slyn-page-manager
 ================
 
-A utility module used for the slyn-framework
+A page manager used for the slyn-framework (Backbone based)
 
 This is still a working progress
