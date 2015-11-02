@@ -1,6 +1,6 @@
 {
   "name": "slyn-page-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Page manager",
   "main": "lib/index.js",
   "keywords": [
@@ -19,9 +19,9 @@
     "underscore": "~1.8.3",
     "q": "~1.4.1",
     "backbone": "~1.2.3",
-    "slyn-url-matcher-factory": "git://github.com/malikov/slyn-url-matcher-factory.git#master",
-    "slyn-util-helper": "git://github.com/malikov/slyn-util-helper.git#0.0.1",
-    "slyn-data-binder": "git://github.com/malikov/slyn-data-binder.git#0.0.1"
+    "slyn-url-matcher-factory": "~0.0.1",
+    "slyn-util-helper": "~0.0.1",
+    "slyn-data-binder": "~0.0.1"
   },
   "license": "MIT",
   "bugs": {
