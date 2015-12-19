@@ -1,6 +1,6 @@
 {
   "name": "slyn-page-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Page manager",
   "main": "lib/index.js",
   "keywords": [
@@ -21,7 +21,7 @@
     "backbone": "~1.2.3",
     "slyn-url-matcher-factory": "~0.0.1",
     "slyn-util-helper": "~0.0.1",
-    "slyn-data-binder": "~0.0.1"
+    "slyn-data-binder": "~0.0.2"
   },
   "license": "MIT",
   "bugs": {
