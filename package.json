@@ -1,6 +1,6 @@
 {
   "name": "slyn-page-manager",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Page manager",
   "main": "lib/index.js",
   "keywords": [
